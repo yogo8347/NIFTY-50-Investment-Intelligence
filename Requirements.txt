@@ -1,5 +1,0 @@
-pip install -r requirements.txt
-
-
-
-C:\Users\yojit\Desktop\nifty_streamlit_app\nifty_app\pages\eda.py
